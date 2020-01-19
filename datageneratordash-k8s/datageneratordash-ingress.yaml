@@ -5,7 +5,7 @@ metadata:
   namespace: bartek-dev
 spec:
   rules:
-  - host: datageneratordashboard.com
+  - host: bartek-dev.staging-wingmanalpha.com
     http:
       paths:
       - path: /

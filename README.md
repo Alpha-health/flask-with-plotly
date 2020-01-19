@@ -1,5 +1,7 @@
 # Flask with ploty
 
+Example of simple dashboard made with flask and plotly. 
+
 ## Generate data
 
 ``` shell
